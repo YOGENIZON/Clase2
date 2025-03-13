@@ -1,0 +1,14 @@
+C:\Users\yogen\Desktop\Clase2\clase2\bin\Debug\net8.0\Clase2.exe
+C:\Users\yogen\Desktop\Clase2\clase2\bin\Debug\net8.0\Clase2.deps.json
+C:\Users\yogen\Desktop\Clase2\clase2\bin\Debug\net8.0\Clase2.runtimeconfig.json
+C:\Users\yogen\Desktop\Clase2\clase2\bin\Debug\net8.0\Clase2.dll
+C:\Users\yogen\Desktop\Clase2\clase2\bin\Debug\net8.0\Clase2.pdb
+C:\Users\yogen\Desktop\Clase2\clase2\obj\Debug\net8.0\Clase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yogen\Desktop\Clase2\clase2\obj\Debug\net8.0\Clase2.AssemblyInfoInputs.cache
+C:\Users\yogen\Desktop\Clase2\clase2\obj\Debug\net8.0\Clase2.AssemblyInfo.cs
+C:\Users\yogen\Desktop\Clase2\clase2\obj\Debug\net8.0\Clase2.csproj.CoreCompileInputs.cache
+C:\Users\yogen\Desktop\Clase2\clase2\obj\Debug\net8.0\Clase2.dll
+C:\Users\yogen\Desktop\Clase2\clase2\obj\Debug\net8.0\refint\Clase2.dll
+C:\Users\yogen\Desktop\Clase2\clase2\obj\Debug\net8.0\Clase2.pdb
+C:\Users\yogen\Desktop\Clase2\clase2\obj\Debug\net8.0\Clase2.genruntimeconfig.cache
+C:\Users\yogen\Desktop\Clase2\clase2\obj\Debug\net8.0\ref\Clase2.dll
